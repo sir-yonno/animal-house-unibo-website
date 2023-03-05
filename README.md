@@ -52,12 +52,12 @@ So just run this command and start developing
 
 ## Todo list
 
-- [ ] Game app
+- [x] Game app
   - [ ] Curiosita' sugli animali come i miei
   - [ ] Curiosita' sugli animali in generale
   - [ ] Informazioni utili sanitarie e legali
   - [x] Video buffi ed interessanti da Youtube
-  - [ ] Quiz #Ale
+  - [x] Quiz #Ale
   - [x] OPZIONALE: Memory
   - [x] OPZIONALE: Impiccato
   - [x] OPZIONALE: Scova le differenze
@@ -71,7 +71,7 @@ So just run this command and start developing
     - [x] cibo #Yonas
     - [x] prodotti sanitari #Yonas
     - [x] accessoristica #Yonas
-    - [ ] OPZIONALE: cuccioli (NON LO FACCIAMO PER NESSUN MOTIVO)
+    - [x] OPZIONALE: cuccioli (NON LO FACCIAMO PER NESSUN MOTIVO)
 - [x] Servizi in presenza #Gian
   - [X] Veterinario #Gian
   - [X] Dog sitter #Gian
@@ -79,11 +79,11 @@ So just run this command and start developing
   - [x] OPZIONALE: Pensione estiva #Gian
   - [x] OPZIONALE: psicologo #Gian
   - [x] OPZIONALE: visita a domicilio per animali soli #Gian
-- [ ] OPZIONALE: Servizi online
-  - [ ] OPZIONALE: Videoconferenza con l'esperto
-  - [ ] OPZIONALE: Videoconferenza con il veterinario
-  - [ ] OPZIONALE: Videoconferenza con l'animale in ospedale o pensione
-- [ ] Back office
+- [x] OPZIONALE: Servizi online
+  - [x] OPZIONALE: Videoconferenza con l'esperto
+  - [x] OPZIONALE: Videoconferenza con il veterinario
+  - [x] OPZIONALE: Videoconferenza con l'animale in ospedale o pensione
+- [x] Back office
   - [x] Gestione clienti #Ale
     - [x] Anagrafica Clienti #Ale
     - [x] Profilo #Ale
@@ -92,28 +92,16 @@ So just run this command and start developing
     - [x] Cambio password #Ale
     - [ ] Reset password #Ale (Forse non lo facciamo)
     - [x] Cancellazione #Ale
-    - [ ] Preferenze e animali preferiti #Ale
+    - [x] Preferenze e animali preferiti #Ale
     - [x] Punteggio giochi #Ale
   - [x] Servizi di comunita' #Ale
     - [x] Controllare o cancellare messaggi nelle bacheche #Ale
-  - [ ] Gestione e-commerce #Yonas
-    - [ ] Aggiungere e togliere prodotti, prezzi, descrizioni. #Yonas
-    - [ ] OPZIONALE: Sottocategorie dei prodotti #Yonas
-    - [ ] Immagini dei prodotti (OPZIONALE:  con upload) #Yonas
-  - [ ] Servizi in presenza #Gian
-    - [ ] Prenotare servizi, modificare o cancellare prenotazioni, visualizzare disponibilita'. #Gian
-    - [ ] Calendari separati dei servizi. #Gian
-    - [ ] OPZIONALE: Servizi online #Gian
-    - [ ] OPZIONALE: Prenotare servizi, modificare o cancellare prenotazioni, visualizzare disponibilita'. #Gian
-
-
-- I giochi non hanno la navbar
-- Lo scorrimento della lista di giochi nella homepage non e' responsive (si accavallano le scritte)
-- Slider input per numeri cubi non responsive
-- Manca homepage per fare routing tra le varie cose, rimuoverei le varie homepage e farei tutto in uno, tipo che nella home puoi spostarti tra giochi, servizi vari e backoffice che non ho ancora capito se volete fare o no visto che a me non serve
-- Bacheca cerco partner non responsive e da testare
-- Gli endpoint in generale hanno dei path un po' strani, andrebbero uniformati
-- Mi e' sembrato di vedere un mischione tra italiano e inglese, va tradotto tutto in inglese
-- Offline nella navbar ha un "?", non so perche' quindi se non c'e' motivo lo togliamo
-- Order history sfora un po' a destra in visuale da telefono
-- Order details sfora un po' a destra in visuale da telefono
+  - [x] Gestione e-commerce #Yonas
+    - [x] Aggiungere e togliere prodotti, prezzi, descrizioni. #Yonas
+    - [x] OPZIONALE: Sottocategorie dei prodotti #Yonas
+    - [x] Immagini dei prodotti (OPZIONALE:  con upload) #Yonas
+  - [x] Servizi in presenza #Gian
+    - [x] Prenotare servizi, modificare o cancellare prenotazioni, visualizzare disponibilita'. #Gian
+    - [x] Calendari separati dei servizi. #Gian
+    - [x] OPZIONALE: Servizi online #Gian
+    - [x] OPZIONALE: Prenotare servizi, modificare o cancellare prenotazioni, visualizzare disponibilita'. #Gian
